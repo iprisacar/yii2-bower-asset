@@ -9,7 +9,6 @@
         "source": "https://github.com/yidas/yii2-bower-asset"
     },
     "provide": {
-        "bower-asset/jquery": "*",
         "bower-asset/inputmask": "*",
         "bower-asset/punycode": "*",
         "bower-asset/yii2-pjax": "*",
