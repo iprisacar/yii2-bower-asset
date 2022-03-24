@@ -1,5 +1,5 @@
 {
-    "name": "iprisacar/yii2-bower-asset",
+    "name": "yidas/yii2-bower-asset",
     "description": "Bower Assets for Yii 2 app provided via Composer repository",
     "keywords": ["yii2", "framework", "bower", "bower asset"],
     "type": "yii2-extension",
